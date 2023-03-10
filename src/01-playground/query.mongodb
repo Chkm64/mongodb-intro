@@ -1,3 +1,4 @@
 use("test")
 
 db.Access.find({type:"ENTRADA"})
+// db.Access.find({type:"ENTRADA"}).count()
